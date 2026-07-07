@@ -18,7 +18,7 @@
  */
 
 const SHEET_NAME = 'HutanPantaiCloudData';
-const ACCESS_CODE = 'CHANGE-ME'; // Change this. Everyone who edits the map must use this same code.
+const ACCESS_CODE = 'Bubblegum1'; // Everyone who edits the map must use this same code.
 
 function doGet(e) {
   const params = (e && e.parameter) ? e.parameter : {};
